@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was a test built over a period of a few days to figure out how viable firebase was for a company project. 
+
 ## Available Scripts
 
 In the project directory, you can run:
