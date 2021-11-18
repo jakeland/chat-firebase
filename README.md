@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was a test built over a period of a few days to figure out how viable firebase was for a company project. 
 
+Currently, the firebase connection would need to be set up with the appropriate site. 
 
 ## Available Scripts
 
